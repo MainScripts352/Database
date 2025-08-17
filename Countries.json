@@ -2,17 +2,29 @@
   "Afghanistan": {
     "Flag": "🇦🇫"
   },
+  "Åland Islands": {
+    "Flag": "🇦🇽"
+  },
   "Albania": {
     "Flag": "🇦🇱"
   },
   "Algeria": {
     "Flag": "🇩🇿"
   },
+  "American Samoa": {
+    "Flag": "🇦🇸"
+  },
   "Andorra": {
     "Flag": "🇦🇩"
   },
   "Angola": {
     "Flag": "🇦🇴"
+  },
+  "Anguilla": {
+    "Flag": "🇦🇮"
+  },
+  "Antarctica": {
+    "Flag": "🇦🇶"
   },
   "Antigua and Barbuda": {
     "Flag": "🇦🇬"
@@ -22,6 +34,9 @@
   },
   "Armenia": {
     "Flag": "🇦🇲"
+  },
+  "Aruba": {
+    "Flag": "🇦🇼"
   },
   "Australia": {
     "Flag": "🇦🇺"
@@ -56,6 +71,9 @@
   "Benin": {
     "Flag": "🇧🇯"
   },
+  "Bermuda": {
+    "Flag": "🇧🇲"
+  },
   "Bhutan": {
     "Flag": "🇧🇹"
   },
@@ -68,8 +86,17 @@
   "Botswana": {
     "Flag": "🇧🇼"
   },
+  "Bouvet Island": {
+    "Flag": "🇧🇻"
+  },
   "Brazil": {
     "Flag": "🇧🇷"
+  },
+  "British Indian Ocean Territory": {
+    "Flag": "🇮🇴"
+  },
+  "British Virgin Islands": {
+    "Flag": "🇻🇬"
   },
   "Brunei": {
     "Flag": "🇧🇳"
@@ -95,6 +122,12 @@
   "Canada": {
     "Flag": "🇨🇦"
   },
+  "Caribbean Netherlands": {
+    "Flag": "🇧🇶"
+  },
+  "Cayman Islands": {
+    "Flag": "🇰🇾"
+  },
   "Central African Republic": {
     "Flag": "🇨🇫"
   },
@@ -107,20 +140,29 @@
   "China": {
     "Flag": "🇨🇳"
   },
+  "Christmas Island": {
+    "Flag": "🇨🇽"
+  },
+  "Cocos (Keeling) Islands": {
+    "Flag": "🇨🇨"
+  },
   "Colombia": {
     "Flag": "🇨🇴"
   },
   "Comoros": {
     "Flag": "🇰🇲"
   },
-  "Congo": {
+  "Congo (Brazzaville)": {
     "Flag": "🇨🇬"
+  },
+  "Congo (Kinshasa)": {
+    "Flag": "🇨🇩"
+  },
+  "Cook Islands": {
+    "Flag": "🇨🇰"
   },
   "Costa Rica": {
     "Flag": "🇨🇷"
-  },
-  "Côte d’Ivoire": {
-    "Flag": "🇨🇮"
   },
   "Croatia": {
     "Flag": "🇭🇷"
@@ -128,14 +170,14 @@
   "Cuba": {
     "Flag": "🇨🇺"
   },
+  "Curaçao": {
+    "Flag": "🇨🇼"
+  },
   "Cyprus": {
     "Flag": "🇨🇾"
   },
   "Czechia": {
     "Flag": "🇨🇿"
-  },
-  "Democratic Republic of the Congo": {
-    "Flag": "🇨🇩"
   },
   "Denmark": {
     "Flag": "🇩🇰"
@@ -173,6 +215,12 @@
   "Ethiopia": {
     "Flag": "🇪🇹"
   },
+  "Falkland Islands": {
+    "Flag": "🇫🇰"
+  },
+  "Faroe Islands": {
+    "Flag": "🇫🇴"
+  },
   "Fiji": {
     "Flag": "🇫🇯"
   },
@@ -181,6 +229,15 @@
   },
   "France": {
     "Flag": "🇫🇷"
+  },
+  "French Guiana": {
+    "Flag": "🇬🇫"
+  },
+  "French Polynesia": {
+    "Flag": "🇵🇫"
+  },
+  "French Southern Territories": {
+    "Flag": "🇹🇫"
   },
   "Gabon": {
     "Flag": "🇬🇦"
@@ -197,14 +254,29 @@
   "Ghana": {
     "Flag": "🇬🇭"
   },
+  "Gibraltar": {
+    "Flag": "🇬🇮"
+  },
   "Greece": {
     "Flag": "🇬🇷"
+  },
+  "Greenland": {
+    "Flag": "🇬🇱"
   },
   "Grenada": {
     "Flag": "🇬🇩"
   },
+  "Guadeloupe": {
+    "Flag": "🇬🇵"
+  },
+  "Guam": {
+    "Flag": "🇬🇺"
+  },
   "Guatemala": {
     "Flag": "🇬🇹"
+  },
+  "Guernsey": {
+    "Flag": "🇬🇬"
   },
   "Guinea": {
     "Flag": "🇬🇳"
@@ -218,8 +290,14 @@
   "Haiti": {
     "Flag": "🇭🇹"
   },
+  "Heard and McDonald Islands": {
+    "Flag": "🇭🇲"
+  },
   "Honduras": {
     "Flag": "🇭🇳"
+  },
+  "Hong Kong": {
+    "Flag": "🇭🇰"
   },
   "Hungary": {
     "Flag": "🇭🇺"
@@ -242,6 +320,9 @@
   "Ireland": {
     "Flag": "🇮🇪"
   },
+  "Isle of Man": {
+    "Flag": "🇮🇲"
+  },
   "Israel": {
     "Flag": "🇮🇱"
   },
@@ -253,6 +334,9 @@
   },
   "Japan": {
     "Flag": "🇯🇵"
+  },
+  "Jersey": {
+    "Flag": "🇯🇪"
   },
   "Jordan": {
     "Flag": "🇯🇴"
@@ -299,6 +383,9 @@
   "Luxembourg": {
     "Flag": "🇱🇺"
   },
+  "Macao": {
+    "Flag": "🇲🇴"
+  },
   "Madagascar": {
     "Flag": "🇲🇬"
   },
@@ -320,11 +407,17 @@
   "Marshall Islands": {
     "Flag": "🇲🇭"
   },
+  "Martinique": {
+    "Flag": "🇲🇶"
+  },
   "Mauritania": {
     "Flag": "🇲🇷"
   },
   "Mauritius": {
     "Flag": "🇲🇺"
+  },
+  "Mayotte": {
+    "Flag": "🇾🇹"
   },
   "Mexico": {
     "Flag": "🇲🇽"
@@ -343,6 +436,9 @@
   },
   "Montenegro": {
     "Flag": "🇲🇪"
+  },
+  "Montserrat": {
+    "Flag": "🇲🇸"
   },
   "Morocco": {
     "Flag": "🇲🇦"
@@ -365,6 +461,9 @@
   "Netherlands": {
     "Flag": "🇳🇱"
   },
+  "New Caledonia": {
+    "Flag": "🇳🇨"
+  },
   "New Zealand": {
     "Flag": "🇳🇿"
   },
@@ -377,11 +476,20 @@
   "Nigeria": {
     "Flag": "🇳🇬"
   },
+  "Niue": {
+    "Flag": "🇳🇺"
+  },
+  "Norfolk Island": {
+    "Flag": "🇳🇫"
+  },
   "North Korea": {
     "Flag": "🇰🇵"
   },
   "North Macedonia": {
     "Flag": "🇲🇰"
+  },
+  "Northern Mariana Islands": {
+    "Flag": "🇲🇵"
   },
   "Norway": {
     "Flag": "🇳🇴"
@@ -413,14 +521,23 @@
   "Philippines": {
     "Flag": "🇵🇭"
   },
+  "Pitcairn Islands": {
+    "Flag": "🇵🇳"
+  },
   "Poland": {
     "Flag": "🇵🇱"
   },
   "Portugal": {
     "Flag": "🇵🇹"
   },
+  "Puerto Rico": {
+    "Flag": "🇵🇷"
+  },
   "Qatar": {
     "Flag": "🇶🇦"
+  },
+  "Réunion": {
+    "Flag": "🇷🇪"
   },
   "Romania": {
     "Flag": "🇷🇴"
@@ -431,26 +548,20 @@
   "Rwanda": {
     "Flag": "🇷🇼"
   },
-  "Saint Kitts and Nevis": {
-    "Flag": "🇰🇳"
-  },
-  "Saint Lucia": {
-    "Flag": "🇱🇨"
-  },
-  "Saint Vincent and the Grenadines": {
-    "Flag": "🇻🇨"
-  },
   "Samoa": {
     "Flag": "🇼🇸"
   },
   "San Marino": {
     "Flag": "🇸🇲"
   },
-  "Sao Tome and Principe": {
+  "São Tomé and Príncipe": {
     "Flag": "🇸🇹"
   },
   "Saudi Arabia": {
     "Flag": "🇸🇦"
+  },
+  "Scotland": {
+    "Flag": "🏴"
   },
   "Senegal": {
     "Flag": "🇸🇳"
@@ -467,6 +578,9 @@
   "Singapore": {
     "Flag": "🇸🇬"
   },
+  "Sint Maarten": {
+    "Flag": "🇸🇽"
+  },
   "Slovakia": {
     "Flag": "🇸🇰"
   },
@@ -482,6 +596,9 @@
   "South Africa": {
     "Flag": "🇿🇦"
   },
+  "South Georgia and South Sandwich Islands": {
+    "Flag": "🇬🇸"
+  },
   "South Korea": {
     "Flag": "🇰🇷"
   },
@@ -493,6 +610,27 @@
   },
   "Sri Lanka": {
     "Flag": "🇱🇰"
+  },
+  "St. Barthélemy": {
+    "Flag": "🇧🇱"
+  },
+  "St. Helena": {
+    "Flag": "🇸🇭"
+  },
+  "St. Kitts and Nevis": {
+    "Flag": "🇰🇳"
+  },
+  "St. Lucia": {
+    "Flag": "🇱🇨"
+  },
+  "St. Martin": {
+    "Flag": "🇲🇫"
+  },
+  "St. Pierre and Miquelon": {
+    "Flag": "🇵🇲"
+  },
+  "St. Vincent and the Grenadines": {
+    "Flag": "🇻🇨"
   },
   "Sudan": {
     "Flag": "🇸🇩"
@@ -527,11 +665,17 @@
   "Togo": {
     "Flag": "🇹🇬"
   },
+  "Tokelau": {
+    "Flag": "🇹🇰"
+  },
   "Tonga": {
     "Flag": "🇹🇴"
   },
   "Trinidad and Tobago": {
     "Flag": "🇹🇹"
+  },
+  "Tristan da Cunha": {
+    "Flag": "🇹🇦"
   },
   "Tunisia": {
     "Flag": "🇹🇳"
@@ -541,6 +685,9 @@
   },
   "Turkmenistan": {
     "Flag": "🇹🇲"
+  },
+  "Turks and Caicos Islands": {
+    "Flag": "🇹🇨"
   },
   "Tuvalu": {
     "Flag": "🇹🇻"
@@ -556,6 +703,9 @@
   },
   "United Kingdom": {
     "Flag": "🇬🇧"
+  },
+  "United Nations": {
+    "Flag": "🇺🇳"
   },
   "United States": {
     "Flag": "🇺🇸"
@@ -577,6 +727,15 @@
   },
   "Vietnam": {
     "Flag": "🇻🇳"
+  },
+  "Wales": {
+    "Flag": "🏴"
+  },
+  "Wallis and Futuna": {
+    "Flag": "🇼🇫"
+  },
+  "Western Sahara": {
+    "Flag": "🇪🇭"
   },
   "Yemen": {
     "Flag": "🇾🇪"
